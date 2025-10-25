@@ -1,0 +1,101 @@
+.quit {
+     height: 100px;
+     width: 100px;
+     font-size: 25px;
+     border: none;
+     background-color: white;
+}
+
+.header {
+    font-family: inherit;
+    font-size: 31px;
+}
+
+.div1 {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h2 {
+    font-family: verdana;
+    font-size: 25px;
+}
+
+.intro {
+    height: 250px;
+    width: 850px;
+    border: 1px solid black;
+    border-radius: 21px;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+#love {
+    height: 50px;
+    width: 50px;
+}
+
+#vid {
+    height: 250px;
+    width: 500px;
+    border-radius: 21px;
+}
+
+.advisor {
+    height: 50px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 21px;
+    text-align: center;
+}
+
+.requirements {
+    height: 50px;
+    width: 850px;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 21px;
+    justify-content: space-between;
+    text-align: center;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+.steps {
+    height: 100px;
+    width: 900px;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 21px;
+    justify-content: space-between;
+}
+
+.categories {
+    height: 200px;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.div1 {
+    display: flex;
+    height: 200px;
+    width: 1500px;
+}
+
+.f1 {
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 200;
+}
