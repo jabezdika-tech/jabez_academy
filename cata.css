@@ -1,0 +1,28 @@
+body {
+    background-image: url(background2.webp);
+    align-items: center;
+    background-size: cover;
+}
+
+.container {
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 21px;
+    cursor: pointer;
+    background-color: white;
+    align-items: center;
+}
+
+.div1 {
+    height: 50px;
+    display: flex;
+}
+
+#id {
+    height: 50px;
+    border: none;
+    width: 50px;
+    align-items: center;
+}
+

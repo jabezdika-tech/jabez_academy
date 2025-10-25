@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-image: url(background.jpeg);
+    height: 800px;
+}
+
+h1 {
+    font-size: 31px;
+}
+
+a {
+    font-size: 31px;
+    color: black;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+nav {
+    display: flex;
+    height: 31px;
+    justify-content: space-between;
+}
+
+button {
+    background-color: blueviolet;
+    color: white;
+    height: 31px;
+    width: 100px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.8;
+}
